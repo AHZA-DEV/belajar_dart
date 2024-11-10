@@ -1,0 +1,53 @@
+[33mcommit a983ff931e854a530b88c2a3f14fe08b0c22c010[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Arif Iskandar <arif19iskandar@gmail.com>
+Date:   Sun Dec 25 06:41:29 2022 +0700
+
+    Finishing detail screen
+
+[33mcommit f707542d0499a00e69b930635db960e2f9a48a97[m
+Author: Arif Iskandar <arif19iskandar@gmail.com>
+Date:   Sun Dec 25 06:41:19 2022 +0700
+
+    Creating tab Fragment
+
+[33mcommit aa39e51ac87e822c0f2512435b7bbe5c212cec97[m
+Author: Arif Iskandar <arif19iskandar@gmail.com>
+Date:   Sun Dec 25 06:41:02 2022 +0700
+
+    FInishing home screen
+
+[33mcommit b6eaa85bdbc1ca2a31bc0ca374c776e8a7cc5780[m
+Author: Arif Iskandar <arif19iskandar@gmail.com>
+Date:   Sun Dec 25 06:40:27 2022 +0700
+
+    Creating models
+
+[33mcommit b1b5622f9103616f6c4a4dad99d3c7065c26683b[m
+Author: Arif Iskandar <arif19iskandar@gmail.com>
+Date:   Sun Dec 25 06:39:17 2022 +0700
+
+    Adding gray color
+
+[33mcommit 0b1eea2eaba19e5beb40a23522b14dd40120c519[m
+Author: Arif Iskandar <arif19iskandar@gmail.com>
+Date:   Sun Dec 25 06:39:03 2022 +0700
+
+    Adding home and detail icons
+
+[33mcommit 9a5378403212dfc4f2e4f990e866033ec54610e8[m
+Author: Arif Iskandar <arif19iskandar@gmail.com>
+Date:   Sun Dec 25 06:38:39 2022 +0700
+
+    Adding list surah asset
+
+[33mcommit 374c5e818ffda28a3bb81f393b7912e8362c94da[m
+Author: Arif Iskandar <arif19iskandar@gmail.com>
+Date:   Sun Dec 25 06:38:22 2022 +0700
+
+    Installing Dio and update the assets
+
+[33mcommit a9898be39a2c6086be497896340f0239eca95537[m
+Author: Arif Iskandar <arif19iskandar@gmail.com>
+Date:   Sat Dec 24 18:09:09 2022 +0700
+
+    Finishing SplashScreen
